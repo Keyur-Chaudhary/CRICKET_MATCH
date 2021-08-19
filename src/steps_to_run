@@ -1,0 +1,12 @@
+Input steps:
+1)create teams with specified names
+2)configure num-of players and  overs
+3)add players of each team with respective batting order
+4)add overs as per innings
+
+Output:
+1)It will show score card after each over of each inning
+2)In the end it will show result from both team scores
+
+
+
